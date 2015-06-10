@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    >
+
+    <TextView  
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:text="AsyncTask Demo"
+        android:textStyle="bold|italic"
+        android:textSize="18dip"
+        android:paddingBottom="15dip"
+        />
+
+    <TextView
+        android:id="@+id/taskStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold|italic"
+        android:textSize="18dip"
+        />
+
+    <ProgressBar
+        android:id="@+id/loaderProgressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="200dip" 
+        android:layout_height="wrap_content"
+        android:paddingTop="15dip"
+        android:paddingBottom="15dip"
+        />
+
+    <Button android:id="@+id/demoButton1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Run Async Task (Success)" 
+    />
+
+    <Button android:id="@+id/demoButton2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Run Async Task (Failure)" 
+    />
+</LinearLayout>
+

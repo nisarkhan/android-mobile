@@ -1,0 +1,36 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/FooterBar"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@null"
+        android:bufferType="normal"
+        android:clickable="true"
+        android:gravity="left"
+        android:paddingLeft="5dp"
+        android:paddingTop="1dp"
+        android:text="@string/footer_website_name"
+        android:textColor="#606060"
+        android:typeface="monospace" />
+
+    <ImageButton
+        android:id="@+id/btn_tweet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@null" 
+        android:src="@drawable/tw" />
+
+    <ImageButton
+        android:id="@+id/btn_fb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@null"
+        android:src="@drawable/fb" />
+
+</LinearLayout>

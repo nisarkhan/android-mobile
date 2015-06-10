@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+    <string name="app_name">Quran</string>
+    <string name="main_no_items">No orders to display</string>
+    <string name="nofileselected">Not file selected</string>
+<!--     <string name="repeat_all">Repeat All</string>
+    <string name="repeat_all">Repeat One</string>
+    <string name="repeat_all">Shuffle</string> -->
+    <string name="rbt_rpt_all">Repeat All</string>
+</resources>

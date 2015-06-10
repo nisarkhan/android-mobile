@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kalamullah</string>
+    <string name="quran_eng_ara">Quran (Arabic-English)</string>
+    <string name="shaikh_ali_jaber">Shaykh Ali Jaber</string>
+    <string name="Saud_Ash_Shuraim">Saud Ash-Shuraim</string>
+    <string name="meshary_afasy">Meshary Rashid Al-Afasy</string>
+    <string name="hani_rifai">Hani Ar Rifai</string>
+    <string name="ghamidi">Shaykh Saad al-Ghamdy</string>
+    <string name="footer_website_name">www.kalamullah.com ver 2</string>
+    <string name="loading_msg_dialog">Please not close this window and be patient, depends on size of the file this action might trake less then few seconds...</string>
+    <string name="invalid_url_unable_to_read">Invalid URL, Unable to read</string>
+    <string name="tafseer_color">#322e2a</string>
+   
+    
+    <!-- tafseer of surahs  http://marakana.com/forums/android/examples/58.html -->
+
+    <string name="read_surah_desc">Read Surah description&#8230;</string>
+    <string name="name_of_the_surah">Name of the Surah</string>
+     <string name="now_playing">Now Playing</string>
+
+    <string-array name="readmore_array">
+        <item>Soorah al-Faatihah (\"The Opening\") has been named this because the Quraan is opened and begins with this Soorah, or chapter. It\'s also been said that it was the first complete chapter to be revealed entirely.
+	   The scholars have said this chapter comprises, in general, the meanings of the whole Quraan with regards to Tawheed (The singling out of Allaah alone for any act of worship), legislative rulings, rewards and recompense, the different paths the children of Aadam (Adam) take, and other issues. For this, it\'s been referred to as   (Ummul-Quraan), or \"The Mother of the Quraan,\"2 as the foundation or origin of something is often referred to in Arabic as \"Mother.\"
+	   This chapter has some distinguishing characteristics which set it apart from others. It\'s a main pillar of the prayers which are themselves the best pillar of Islaam after the two testimonies (i.e. I testify that nothing has any right to be worshipped except Allaah alone, and I testify that Muhammad is His last Messenger). There is no prayer for one who doesn\'t recite this opening chapter of the book. It\'s also a cure. If it\'s read over someone sick, he or she will be cured by the permission of Allaah. The Prophet () said to someone who recited it over another person suffering from a scorpion sting who was healed by it:</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+
+</resources>

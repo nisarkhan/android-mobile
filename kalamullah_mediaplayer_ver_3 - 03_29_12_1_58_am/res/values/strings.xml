@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kalamullah</string>
+    <string name="quran_eng_ara">Quran (Arabic-English)</string>
+    <string name="shaikh_ali_jaber">Shaykh Ali Jaber</string>
+    <string name="Saud_Ash_Shuraim">Saud Ash-Shuraim</string>
+    <string name="meshary_afasy">Meshary Rashid Al-Afasy</string>
+    <string name="hani_rifai">Hani Ar Rifai</string>
+    <string name="ghamidi">Shaykh Saad al-Ghamdy</string>
+    <string name="footer_website_name">www.kalamullah.com ver 3</string>
+    <string name="loading_msg_dialog">Please not close this window and be patient, depends on size of the file this action might trake less then few seconds...</string>
+    <string name="invalid_url_unable_to_read">Invalid URL, Unable to read</string>
+    <string name="tafseer_color">#322e2a</string>
+
+    <!-- tafseer of surahs  http://marakana.com/forums/android/examples/58.html -->
+
+    <string name="read_surah_desc">Read more about Surah</string>
+    <string name="name_of_the_surah">Name of the Surah</string>
+    <string name="now_playing">Now Playing</string>
+
+    <string-array name="readmore_array">
+        <item><b>Name</b>\n\n
+				This Surah is named AL-FATIHAH because of its subject-matter. Fatihah is that which opens a subject or a book or any other thing. In other words, Al-Fatihah is a sort of preface. 
+				\n<b>Period of Revelation</b>n\n
+				It is one of the very earliest Revelations to the Holy Prophet. As a matter of fact, we learn from authentic Traditions that it was the first complete Surah which was revealed to Muhammed (Allah\'s peace be upon him). Before this, only a few miscellaneous verses were revealed which form parts of `ALAQ, MUZ-ZAMMIL, MUD-DATH-THIR, etc. 
+				\n\n<b>Theme</b>n\n
+				This Surah is in fact a prayer which Allah has taught to all those who want to make a study of His book. It has been placed at the very beginning of the book to teach this lesson to the reader: if you sincerely want to benefit from the Quran, you should offer this prayer to the Lord of the Universe. 
+				\n\n
+				This preface is meant to create a strong desire in the heart of the reader to seek guidance from the Lord of the Universe, Who alone can grant it. Thus AL-FATIHAH indirectly teaches that the best thing for a man is to pray for guidance to the straight path, to study the Quran with the mental attitude of a seeker- after-truth and to recognize the fact that the Lord of the Universe is the source of all knowledge. He should, therefore, begin the study of the Quran with a prayer to him for guidance. 
+				\n\n
+				From this theme, it becomes clear that the real relation between AL-FATIHAH and the Quran is not that of an introduction to a book but that of a prayer and its answer. AL-FATIHAH is the prayer from the servant and the Quran is the answer from the Master to his prayer. The servant prays to Allah to show him guidance and the Master places the whole of the Quran before him in answer to his prayer, as if to say, \"This is the Guidance you begged from Me.\" </item>
+        <item><b>Name</b>\n\n
+				Why the name AL-BAQARAH? 
+				\n\n
+				AL-BAQARAH (the Cow) has been so named from the story of the Cow occurring in this Surah (vv. 67-73). It has not, however, been used as a title to indicate the subject of the Surah. It will, therefore, be as wrong to translate the name Al-Baqarah into \\"The Cow\\" or \\"The Heifer\" as to translate any English name, say Baker, Rice, Wolf etc., into their equivalents in other languages or vice versa, because this would imply that the Surah dealt with the subject of \"The Cow\". Many more Surahs of the Quran have been named in the same way because no comprehensive words exist in Arabic (in spite of its richness) to denote the wide scope of the subject discussed in them. As a matter of fact all human languages suffer from the same limitation. 
+				\n\n<b>Sequence</b>\n\n
+				Though it is a Madani Surah, it follows naturally a Makki Surah Al- Fatihah, which ended with the prayer :\"Show us the straight way\". It begins with the answer to that prayer, \"This is the Book (that) . . . is guidance. . .\" 
+				\n\n
+				The greater part of Al-Baqarah was revealed during the first two years of the Holy Prophet\'s life at Al-Madinah. The smaller part which was revealed at a later period has been included in this Surah because its contents are closely related to those dealt with in this Surah. For instance, the verses prohibiting interest were revealed during the last period of the Holy prophet\'s life but have been inserted in this Surah. For the same reason, the last verses (284-286) of this Surah which were revealed at Makkah before the migration of the Holy Prophet to AI-Madinah have also been included in it. 
+				\n\n<b>Historical Background</b>\n\n
+				In order to understand the meaning of this Surah, we should know its historical background: 
+				\n\n
+				At Makkah the Quran generally addressed the mushrik Quraish who were ignorant of Islam, but at Al- Madinah it was also concerned with the Jews who were acquainted with the creed of the Unity of Allah, Prophethood, Revelation, the Hereafter and angels. They also professed to believe in the law which was revealed by Allah to their Prophet Moses (Allah\'s peace be upon him), and in principle, their way was the same (Islam) that was being taught by Prophet Muhammad (Allah\'s peace be upon him). But they had strayed away from it during the centuries of degeneration and had adopted many un- Islamic creeds, rites and customs of which there was no mention and for which there was no sanction in the Torah. Not only this : they had tampered with the Torah by inserting their own explanations and interpretations into its text. They had distorted even that part of the Word of God which had remained intact in their Scriptures and taken out of it the real spirit of true religion and were now clinging to a lifeless frame of rituals. Consequently their beliefs, their morals and their conduct had gone to the lowest depths of degeneration. The pity is that they were not only satisfied with their condition but loved to cling to it. Besides this, they had no intention or inclination to accept any kind of reform. So they became bitter enemies of those who came to teach them the Right Way and did their worst to defeat every such effort. Though they were originally Muslims, they had swerved from the real Islam and made innovations and alterations in it and had fallen victims to hair splitting and sectarianism. They had forgotten and forsaken Allah and begun to serve mammon. So much so that they had even given up their original name \"Muslim\" and adopted the name \"Jew\" instead, and made religion the sole monopoly of the children of Israel. 
+				\n\n
+				This was their religious condition when the Holy Prophet went to Al-Madinah and invited the Jews to the true religion. That is why more than one third of this Surah has been addressed to the children of Israel. A critical review of their history, their moral degeneration and their religious perversions has been made; side by side with this the high standard of morality and the fundamental principles of the pure religion have been put forward in order to bring out clearly the nature of the degeneration of the community of a prophet when it goes astray and to draw clear lines of demarcation between real piety and formalism, and the essentials and non-essentials of the true religion. 
+				\n\n
+				At Makkah Islam was mainly concerned with the propagation of its fundamental principles and the moral training of its followers. But after the migration of the Holy Prophet to Al-Madinah, where Muslims had come to settle from all over Arabia and where a tiny Islamic State had been set up with the help of the Ansar (local supporters), naturally the Quran had to turn its attention to the social, cultural, economic, political and legal problems as well. This accounts for the difference between the themes of the surahs revealed at Makkah and those at Al- Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. 
+				\n\n
+				After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this the Believers, who propagated Islam among their own clans and tribes, had to face its opponents at their own risk. But the conditions had changed at Al- Madinah, where Muslims from all parts of Arabia had come and settled as one community, and had established an independent city state. Here it became a struggle for the\' survival of the Community itself, for the whole of non- Muslim Arabia was bent upon and united in crushing it totally. Hence the following instructions, upon which depended not only its success but its very survival, were revealed in this <b>Surah :-</b>n\n 
+				The Community should work with the utmost zeal to propagate its ideology and win over to its side the greatest possible number of people. 
+				It should so expose its opponents as to leave no room for doubt in the mind of any sensible person that they were adhering to an absolutely wrong position. 
+				It should infuse in it\'s members (the majority of whom were homeless and indigent and surrounded on all sides by enemies) that courage and fortitude which is so indispensable to their very existence in the adverse circumstances in which they were struggling and to prepare them to face these boldly. \n\n
+				It should also keep them ready and prepared to meet any armed menace, which might come from any side to suppress and crush their ideology, and to oppose it tooth and nail without minding the overwhelming numerical strength and the material resources of its enemies 
+				It should also create in them that courage which is needed for the eradication of evil ways and for the establishment of the Islamic Way instead. 
+				\n\nThat is why Allah has revealed in this Surah such instructions as may help achieve all the above mentioned objects. 
+				\n\n
+				During this period, a new type of \"Muslims,\" munafiqin (hypocrites), had begun to appear. Though signs of duplicity had been noticed during the last days at Makkah, they took a different shape at Al-Madinah. At Makkah there were some people who professed Islam to be true but were not prepared to abide by the consequences of this profession and to sacrifice their worldly interests and relations and bear the afflictions which inevitably follow the acceptance of this creed. But at Al-Madinah different kinds of munafiqin (hypocrites) began to appear. There were some who had entered the Islamic fold merely to harm it from within. There were others who were surrounded by Muslims and, therefore, had become \"Muslims\" to safeguard their worldly interests. They, therefore, continued to have relations with the enemies so that if the latter became successful, their interests should remain secure. There were still others who had no strong conviction of the truth of Islam but had embraced it along with their clans. Lastly, there were those who were intellectually convinced of the truth of Islam but did not have enough moral courage to give up their former traditions, superstitions and personal ambitions and live up to the Islamic moral standards and make sacrifice in its way. 
+				\n\n
+				At the time of the revelation of Al-Baqarah, all sorts of hypocrites had begun to appear. Allah has, therefore, briefly pointed out their characteristics here. Afterwards when their evil characteristics and mischievous deeds became manifest, Allah sent detailed instructions about them. 
+				\n\n<b>Theme: Guidance</b>n\n
+				This Surah is an invitation to the Divine Guidance and all the stories, incidents etc., revolve round this central theme. As this Surah has particularly been addressed to the Jews, many historical events have been cited from their own traditions to admonish and advise them that their own good lies in accepting the Guidance revealed to the Holy Prophet. They should, therefore, be the first to accept it because it was basically]y the same that was revealed to Prophet Moses (Allah\'s peace be upon him). 
+				\n\n<b>Topics and their Interconnection</b>n\n
+				These introductory verses declare the Quran to be the Book of Guidance : enunciate the articles of the Faith -- belief in Allah, Prophethood and Life-after-death; divide mankind into three main groups with regard to its acceptance or rejection -- Believers, disbelievers and hypocrites. 1 - 20 
+				\n\n
+				Allah invites mankind to accept the Guidance voluntarily and to submit to Him, the Lord and the Creator of the Universe and to believe in the Quran, His Guidance, and in the Life-after-death. 21 - 29 
+				\n\n
+				The story of the appointment of Adam as Allah\'s Vicegerent on Earth, of his life in the Garden, of his falling a prey to the temptations of Satan, of his repentance and its acceptance, has been related to show to mankind (Adam\'s offspring), that the only right thing for them is to accept and follow the Guidance. This story also shows that the Guidance of Islam is the same that was given to Adam and that it is the original religion of mankind. 30 - 39 
+				\n\n
+				In this portion invitation to the Guidance has particularly been extended to the children of Israel and their past and present attitude has been criticised to show that the cause of their degradation was their deviation from the Guidance. 40 - 120 
+				\n\n
+				The Jews have been exhorted to follow Prophet Muhammad (Allah\'s peace be upon him) who had come with the same Guidance and who was a descendant and follower of Prophet Abraham whom they highly honoured as their ancestor, and professed to follow as a prophet. The story of the building of the Ka`abah by him has been mentioned because it was going to be made the qiblah of the Muslim Community. 121 - 141 
+				\n\n
+				In this portion, the declaration of the change of qiblah from the Temple (Jerusalem) to the Ka`abah (Makkah) has been made as a symbol of the change of leadership from the children of Israel to the Muslim Community, which has also been fore-warned to guard against those transgressions against the Guidance that had led to the deposition of the Jews. 142 - 152 
+				\n\n
+				In this portion practical measures have been prescribed to enable the Muslims to discharge the heavy responsibilities of the leadership that had been entrusted to them for the promulgation of Guidance. Salat, Fast, Zakat, Haj and Jihad have been prescribed for the moral training of the Ummat. The Believers have been exhorted to obey authority, to be just, to fulfill pledges, to observe treaties, to spend wealth etc., in the way of Allah. Laws, rules and regulations have been laid down for their organisation, cohesion and conduct of day-to-day life and for the solution of social, economic, political and international problems; on the other hand, drinking, gambling, lending money on interest etc., have been prohibited to keep the Ummat safe from disintegration. In between these, the basic articles of the Faith have been reiterated at suitable places, for these alone can enable and support one to stick to the Guidance. 153 - 251 
+				\n\n
+				These verses serve as an introduction to the prohibition of lending money on interest. The true conception of Allah, Revelation and Life-after-death has been emphasised to keep alive the sense of accountability. The stories of Prophet Abraham (Allah\'s peace be upon him) and of the one who woke up after a sleep of hundred years have been related to show that Allah is All-Powerful and is able to raise the dead and call them to account. The Believers, therefore, should keep this fact in view and refrain from taking interest on money. 252 - 260 
+				\n\n
+				The theme of 153 - 251 has been resumed and the Believers have been exhorted to spend in the way of Allah in order to please Him alone. In contrast to this, they have been warned against the evils of lending money on interest. Instructions have also been given for the honest conduct of day-to-day business transactions. 261 - 283 
+				\n\n
+				The basic articles of the Faith have been recapitulated here at the end of the Surah, just as they were enunciated at its beginning. Then the Surah ends with a prayer which the Muslim Community needed very much at that time when they were encountering untold hardships in the propagation of the Guidance. 284 - 286 
+				\n\n</item>
+        <item><b>Name</b>n\n
+				This Surah takes its name from v. 33. Al-i-Imran, like the names of many other surahs, is merely a name to distinguish it from other surahs and does not imply that the family of Imran has been discussed in it. 
+				\n\n
+				The Period of Revelation\n\n
+				This Surah consists of four discourses The first discourses :- 
+				\n\n
+				The first discourse (vv. 1-32) was probably revealed soon after the Battle of Badr. 
+				\n\n
+				The second discourse (vv. 33-63) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. 
+				\n\n
+				The third discourse (vv. 64-120) appears to have been revealed immediately after the first one. 
+				\n\n
+				The fourth discourse (vv. 121-200) was revealed after the Battle of Uhd. 
+				\n\n<b>Subject</b>n\n
+				Though these discourses were revealed at different periods and on different occasions, they are so inter-linked and so inter-connected iii regard to their aim, object and central theme that they make together one continuous whole. This Surah has been especially addressed to two groups-the people of the Book (the Jews and the Christians) and the followers of Muhammad (Allah\'s peace be upon him). 
+				\n\n
+				The message has been extended to the Jews and the Christians in continuation of the invitation in Al-Baqarah, in which they have been admonished for their erroneous beliefs and evil morals and advised to accept, as a remedy, the Truth of the Quran. They have been told here that Muhammad (Allah\'s peace be, upon him) taught the same right way of life that had been preached by their own Prophets; that it alone was the Right Way, the way of Allah; hence any deviation from it will be wrong even according to their own Scriptures. 
+				\n\n
+				The second group, the Muslims, who had been declared to be the best Community in Al-Baqarah and appointed torch-bearers of the Truth and entrusted with the responsibility of reforming the world, have been given additional instructions in continuation of those given in the preceding Surah. The Muslims have been warned to learn a lesson from the religious and moral degeneration of the former communities and to refrain from treading in their footsteps. Instructions have also been given about the reformative work they had to perform. Besides this, they have been taught how to deal with the people of the Book and the hypocrites who were putting different kinds of hindrances in the way of Allah. Above all, they have been warned to guard against those weaknesses which had come to the surface in the Battle Uhd. 
+				\n\n<b>Background</b>n\n
+				The following is the background of the Surah: \n\n
+				\n\n
+				The Believers had met with all sorts of trials and hardships about which they had been forewarned in Al- Baqarah. Though they had come out victorious in the Battle of Badr, they were not out of danger yet. Their victory had aroused the enmity of all those powers in Arabia which were opposed to the Islamic Movement. Signs of threatening storms had begun to appear on all sides and the Muslims were in a perpetual state of fear and anxiety. It looked as if the whole Arabian world around the tiny state of Al- Madinah -- which was no more than a village state at that time -- was bent upon blotting out its very existence. This state of war was also adversely affecting its economy, which had already been badly disturbed by the influx of the Muslim refugees from Makkah. 
+				\n\n
+				Then there was the disturbing problem of the Jewish clans who lived in the suburbs of Al-Madinah. They were discarding the treaties of alliance they had made with the Holy Prophet after his migration from Makkah. So much so that on the occasion of the Battle of Badr, these people of the Book sympathized with the evil aims of the idolaters, in spite of the fact that their fundamental articles of the Faith -- Oneness of Allah, Prophethood, Life-after- death -- were the same as those of the Muslims. After the Battle of Badr, they openly began to incite the Quraish and other Arab clans to wreak their vengeance on the Muslims. Thus those Jewish clans set aside their centuries-old friendly and neighborly relations with the people of Al-Madinah. At last when their mischievous actions and breaches of treaties became unbearable, the Holy Prophet attacked the Bani- Qainu-qa\'a, the most mischievous of all the other Jewish clans who had conspired with the hypocrites of Al-Madinah and the idolatrous Arab clans to encircle the Believers on all sides. The magnitude of the peril might be judged from the fact that even the life of the Holy Prophet himself was always in danger. Therefore his Companions slept in their armors during that period and kept watch at night to guard against any sudden attack, and whenever the Holy Prophet happened to be out of sight even for a short while, they would at once set out in search of him. 
+				\n\n
+				This incitement by the Jews added fuel to the fire which was burning in the hearts of the Quraish and they began to make preparations to avenge the defeat they had suffered at Bad. A year after this an army of 3,000 strong marched out of Makkah to invade Al-Madinah and a battle took place at the foot of Mount Uhd. The Holy Prophet came out of Al-Madinah with one thousand men to meet the enemy. While they were marching to the battle-field, three hundred hypocrites deserted the army and returned to Al- Madinah, but there still remained a small band of hypocrites among the seven hundred who accompanied the Holy Prophet. They played their part and did their worst to create mischief and chaos in the ranks of the Believers during the Battle. This was the first clear indication of the fact that within the fold of the Muslim Community there was quite a large number of saboteurs who were always ready to conspire with the external enemies to harm their own brethren. 
+				\n\n
+				Though the devices of the hypocrites had played a great part in the set-back at Uhd, the weaknesses of the Muslims themselves contributed no less to it. And it was but natural that the Muslims should show signs of moral weakness for they were a new community which had only recently been formed on a new ideology and had not as yet got a thorough moral training. Naturally in this second hard test of their physical and moral strength, some weaknesses came to the surface. That is why a detailed review of the Battle of Uhd was needed to warn the Muslims of their shortcomings and to issue instructions for their reform. It should also be noted that this review of the Battle is quite different from the reviews that are usually made by generals on similar occasions. 
+				\n\n<b>Subject: Guidance</b>n\n
+				This Surah is the sequel to, Al-Baqarah and the invitation therein is continued to the people of the Book. In Al- Baqarah the Jews were pointedly invited to accept the Guidance and in this Surah the Christians have particularly been admonished to give up their erroneous beliefs and accept the Guidance of the Quran. At the same time, the Muslims have been instructed to nourish the virtues that may enable them to carry out their obligations and spread the Divine Guidance. 
+				\n\n
+				Topics and their Interconnection
+				In these introductory verses, the fundamental truths about Allah, Revelation and Life-after-death have been reiterated to serve as fitting preliminaries, leading to the main topics discussed in the Surah. 1 - 32 
+				\n\n
+				This discourse is particularly addressed to the Christians and invites them to accept Islam. It clears Jesus and his mother not only from the stigma maliciously set upon them by the Jews, but also refutes the erroneous Christian creed of the Divinity of Jesus which had been formulated because of his miraculous birth. For this purpose the instances of John the Baptist to a barren woman and an extremely aged man and that of Adam without father and mother have been cited to show that there is nothing in the birth of Jesus without a father to entitle him to Divinity. 33 - 65 
+				\n\n
+				In these verses the people of the Book, the Jews, have been invited to give up their sinister ways and accept the divine Guidance. At the same time the Muslims have been warned to be on their guard against their malicious intentions, erroneous ways and absurd objections. 66 - 101 
+				\n\n
+				The Muslims have been instructed to learn lessons from the history of the people of the Book and also to guard themselves against their machinations, and to prepare and train themselves to establish virtue and eradicate evil. 102 - 120 
+				\n\n
+				In this portion, a review of the Battle of Uhd has been mad to teach and reassure the Muslims that the machinations of their enemies could do them no harm, if they would practise restraint and fortitude and have fear of Allah. It has been pointed out that the set-back they had suffered was due to the lack of some moral qualities and the existence of some evils. Since the main cause of the defeat was the greed of the archers, guarding the pass, the taking of interest has been prohibited to eradicate this evil. 121 - 175 
+				\n\n
+				The main theme of the verses 109 - 120 has been resumed to reassure and encourage the Muslims against the dangerous plots of their enemies. 175 - 189 
+				\n\n
+				This is the conclusion of the Surah and is not directly connected with the verses immediately preceding it but with the theme of the Surah as a whole. 190 - 200 
+				\n\n
+		</item>
+     <item><b>Name</b>n\n
+				The following is the background of the Surah: \n\n
+				\n\n
+				The Believers had met with all sorts of trials and hardships about which they had been forewarned in Al- Baqarah. Though they had come out victorious in the Battle of Badr, they were not out of danger yet. Their victory had aroused the enmity of all those powers in Arabia which were opposed to the Islamic Movement. Signs of threatening storms had begun to appear on all sides and the Muslims were in a perpetual state of fear and anxiety. It looked as if the whole Arabian world around the tiny state of Al- Madinah -- which was no more than a village state at that time -- was bent upon blotting out its very existence. This state of war was also adversely affecting its economy, which had already been badly disturbed by the influx of the Muslim refugees from Makkah. 
+				\n\n  
+				</item>
+				</string-array>
+
+</resources>

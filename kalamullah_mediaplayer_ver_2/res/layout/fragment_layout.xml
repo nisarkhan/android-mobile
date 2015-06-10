@@ -1,0 +1,62 @@
+<net.issoa.dashboard.Dashboard_Layout xmlns:android="http://schemas.android.com/apk/res/android"
+    
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="#f1f1f1"  >
+
+    <!-- News Feed Button -->
+
+ 
+    <Button
+        android:id="@+id/btn_quran_arabic_english"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_quran_arabic_english"
+        android:text="@string/quran_eng_ara" />
+
+    <!-- Friends Button -->
+
+
+    <Button
+        android:id="@+id/btn_shaykh_ali_jaber"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_shaykh_ali_jaber"
+        android:text="@string/shaikh_ali_jaber" />
+
+    <!-- Messages Button -->
+
+
+    <Button
+        android:id="@+id/btn_saud_ash_shuraim"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_saud_ash_shuraim"
+        android:text="@string/Saud_Ash_Shuraim" />
+
+    <!-- Places Button -->
+
+
+    <Button
+        android:id="@+id/btn_meshary_afasy"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_meshary_afasy"
+        android:text="@string/meshary_afasy" />
+
+    <!-- Events Button -->
+
+
+    <Button
+        android:id="@+id/btn_hani_rifai"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_hani_rifai"
+        android:text="@string/hani_rifai" />
+
+    <!-- Photos Button -->
+
+
+    <Button
+        android:id="@+id/btn_ghamidi"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_ghamidi"
+        android:text="@string/ghamidi" />
+
+</net.issoa.dashboard.Dashboard_Layout>

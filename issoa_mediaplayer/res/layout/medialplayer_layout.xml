@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/android:list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"       
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <SeekBar
+            android:id="@+id/volumebar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:max="100"
+            android:paddingBottom="10dip" />
+
+        <TextView
+            android:id="@+id/selectedfile"
+            android:layout_width="136dp"
+            android:layout_height="wrap_content"
+            android:ellipsize="middle"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:text="@string/nofileselected"
+            android:background="@drawable/my_border"
+             />
+
+
+        <TextView
+            android:id="@+id/duration"
+            android:layout_width="258dp"
+            android:layout_height="wrap_content"
+            android:ellipsize="middle"
+            android:gravity="center_horizontal"
+            android:singleLine="true" 
+            android:textColor="@android:color/secondary_text_dark"
+             android:background="@drawable/my_border"
+            />
+
+        
+    
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rpt_all"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="@string/rbt_rpt_all" />
+
+            <RadioButton
+                android:id="@+id/rpt_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Repeat 1" />
+
+            <RadioButton
+                android:id="@+id/shuffle"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Shuffle" />
+
+        </RadioGroup>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"            
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <SeekBar
+                android:id="@+id/seekbar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:max="100"
+                android:paddingBottom="10dip" />
+
+            <ImageButton
+                android:id="@+id/play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/ic_media_play" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

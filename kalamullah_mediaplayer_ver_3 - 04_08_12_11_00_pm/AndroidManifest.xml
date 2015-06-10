@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.issoa"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="10" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application  android:name="net.issoa.helper.MyApplication"
+        android:icon="@drawable/ic_launcher_kalamullah"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".Dashboard_Activity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".Dashboard_Activity" >
+        </activity> 
+        
+        <activity android:name=".Custom_Tafseer_Activity" >
+        </activity> 
+        
+        
+        <activity android:name=".Media_Player_Activity" >
+        </activity>
+        <activity android:name=".Play_Listing_Activity" >
+        </activity>
+
+        <activity android:name=".Quran_Arabic_English_Activity" >
+        </activity>
+
+        <activity android:name=".Shaykh_Ali_Jaber_Activity" >
+        </activity>
+
+        <activity android:name=".Saud_Ash_Shuraim_Activity" >
+        </activity>
+
+        <activity android:name=".Meshary_Afasy_Activity" >
+        </activity>
+
+        <activity android:name=".Hani_Rifai_Activity" >
+        </activity>
+
+        <activity android:name=".Ghamidi_Activity" >
+        </activity>
+        
+          <activity android:name=".About" />
+          
+    </application>
+
+</manifest>

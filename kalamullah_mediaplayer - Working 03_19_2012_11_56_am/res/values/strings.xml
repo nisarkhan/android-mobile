@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="app_name">Kalamullah</string> 
+    <string name="quran_eng_ara">Quran (Arabic-English)</string> 
+    <string name="shaikh_ali_jaber">Shaykh Ali Jaber</string> 
+    <string name="Saud_Ash_Shuraim">Saud Ash-Shuraim</string> 
+    <string name="meshary_afasy">Meshary Rashid Al-Afasy</string> 
+    <string name="hani_rifai">Hani Ar Rifai</string> 
+    <string name="ghamidi">Shaykh Saad al-Ghamdy</string> 
+    <string name="footer_website_name">www.kalamullah.com</string>
+    <string name="loading_msg_dialog">Please wait&#8230;</string>
+    <string name="invalid_url_unable_to_read">Invalid URL, Unable to read</string>
+   
+    
+</resources>

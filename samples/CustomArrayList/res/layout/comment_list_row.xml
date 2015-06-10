@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutCommentRow"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#f1f1f1"
+    android:orientation="vertical"
+    android:padding="8dp" >
+
+    <ImageView
+        android:id="@+id/imgUserImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_toRightOf="@id/imgUserImage"
+        android:text="Name"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/viewLine"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/txtUserName"
+        android:layout_marginLeft="5dip"
+        android:layout_toRightOf="@id/imgUserImage"
+        android:background="#666666" />
+
+    <TextView
+        android:id="@+id/txtUserComment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/viewLine"
+        android:layout_margin="5dp"
+        android:layout_toRightOf="@id/imgUserImage"
+        android:text="Comment"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/txtClickableLink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/txtUserComment"
+        android:layout_margin="5dp"
+        android:clickable="true"
+        android:text="Clickable Link"
+        android:textSize="12sp" />
+
+</RelativeLayout>

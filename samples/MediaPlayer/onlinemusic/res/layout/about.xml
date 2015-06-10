@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<Button android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:layout_alignParentBottom="true"
+		android:layout_alignParentLeft="true" android:id="@+id/exit" android:text="Back to Main Application"></Button>
+	<TextView android:layout_height="wrap_content"
+		android:text="If you like this app please rate it" android:id="@+id/textView1"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_alignParentTop="true" android:layout_centerHorizontal="true"
+		android:layout_marginTop="24dp" android:layout_width="wrap_content" android:textStyle="bold"></TextView>
+	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView3" android:layout_below="@+id/textView1" android:layout_alignLeft="@+id/textView1" android:text="thank you"></TextView>
+	<TextView android:layout_height="wrap_content" android:id="@+id/textView2" android:layout_margin="20dp" android:layout_below="@+id/textView3" android:layout_alignRight="@+id/textView1" android:layout_width="match_parent" android:textAppearance="?android:attr/textAppearanceSmall" android:text="Hello :)"></TextView>
+	<Button android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/button1" android:text="To Rate us Click Here" android:layout_above="@+id/exit" android:layout_alignParentLeft="true"></Button>
+
+</RelativeLayout>
